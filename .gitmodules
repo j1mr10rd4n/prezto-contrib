@@ -1,3 +1,6 @@
 [submodule "fzf-prezto"]
 	path = fzf-prezto
 	url = https://github.com/gpanders/fzf-prezto
+[submodule "piec-fzf-prezto"]
+	path = piec-fzf-prezto
+	url = https://github.com/piec/fzf-prezto
