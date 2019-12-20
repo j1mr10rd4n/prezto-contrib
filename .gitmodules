@@ -4,3 +4,6 @@
 [submodule "piec-fzf-prezto"]
 	path = piec-fzf-prezto
 	url = https://github.com/piec/fzf-prezto
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/tarak/prezto-terraform.git
